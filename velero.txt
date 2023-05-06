@@ -1,0 +1,6 @@
+velero is an opensource software. It is based on kubernetes clusters. A kubernetes is a cluster where the collection of network communicate.
+features:
+>backup clusters from one to another
+>performs disaster recovery incase of data loss
+>takes snapshots of the project into kubernetes cluster
+>It stores the snapshots
