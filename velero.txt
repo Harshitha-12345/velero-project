@@ -4,3 +4,6 @@ features:
 >performs disaster recovery incase of data loss
 >takes snapshots of the project into kubernetes cluster
 >It stores the snapshots
+
+//new
+>safely recovers the data
